@@ -1,0 +1,5 @@
+Receipt
+Date Time:2019/11/08 22:35:22
+Amount Pay:50.0
+Total: 35.849999999999994
+Balance: 14.150000000000006
